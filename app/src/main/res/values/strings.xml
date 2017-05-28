@@ -1,0 +1,56 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Zagreb Tour Guide</string>
+
+    <!-- Category name for list [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category name for the vocabulary words for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the vocabulary words for parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for the vocabulary words for nightlife [CHAR LIMIT=20] -->
+    <string name="category_nightlife">Nightlife</string>
+
+    <!-- Titles and details for Sights section -->
+    <string name="sights_about_zagreb">About Zagreb</string>
+    <string name="sights_zagreb_info">The city of Zagreb, capital of Croatia, on the historic and political threshold between East and West, illustrates both the continental and Mediterranean spirit of the nation it spearheads. Zagreb is the cultural, scientific, economic, political and administrative centre of the Republic of Croatia, and is home to the Croatian Parliament, Government and President. Its favourable location between the Pannonian plain, the edge of the Alps and the Dinaric range has allowed it to become a crossing point for mass international communication.</string>
+
+    <string name="sights_cathedral">Cathedral of the Assumption of the Blessed Virgin Mary</string>
+    <string name="sights_cathedral_details">Kaptol Sq is dominated by this cathedral, formerly known as St Stephen\'s. Its twin spires – seemingly permanently under repair – soar over the city. Although the cathedral\'s original Gothic structure has been transformed many times over, the sacristy still contains a cycle of frescoes dating from the 13th century. An earthquake in 1880 badly damaged the cathedral; reconstruction in a neo-Gothic style began around the turn of the 20th century.</string>
+
+    <string name="sights_dolac">Dolac Market</string>
+    <string name="sights_dolac_details">Zagreb\'s colourful fruit and vegetable market is just north of Trg Bana Jelačića. Traders from all over Croatia come to sell their products at this buzzing centre of activity. Dolac has been heaving since the 1930s, when the city authorities set up a market space on the \'border\' between the Upper and Lower Towns.</string>
+
+    <!-- Titles and details for Museums section -->
+    <string name="museums_mimara">Museum Mimara</string>
+    <string name="museums_mimara_details">This is the diverse private art collection – Zagreb\'s best – of Ante Topić Mimara, who donated over 3750 priceless objects to his native Zagreb (even though he spent much of his life in Salzburg, Austria). Housed in a neo-Renaissance former school building (1883), the collection spans a wide range of periods and regions.\nInside you\'ll find an archaeological section with 200 items; exhibits of ancient Far Eastern artworks; a glass, textile and furniture collection that spans centuries; and 1000 European art objects. In the painting collection, check out works by Raphael, Caravaggio, Rembrandt, Bosch, Velázquez, Goya, Manet, Renoir and Degas.</string>
+
+    <string name="museums_muo">Arts &amp; Crafts Museum</string>
+    <string name="museums_muo_details">Built between 1882 and 1892, this museum exhibits furniture, textiles, metal, ceramic and glass ranging from the Middle Ages to today. You can see Gothic and baroque sculptures from northern Croatia, as well as paintings, prints, bells, stoves, rings, clocks, bound books, toys, photos and industrial design. The museum hosts frequent temporary exhibitions.</string>
+
+    <string name="museums_broken">Museum of Broken Relationships</string>
+    <string name="museums_broken_details">Explore mementoes that remain after a relationship ends at Zagreb\'s quirkiest museum. The innovative exhibit toured the world until it settled here in its permanent home (it recently opened a second location in Hollywood, too!). On display are donations from around the globe, in a string of all-white rooms with vaulted ceilings and epoxy-resin floors.\nExhibits hit on a range of emotions, from a vinyl record that was played during a teenage breakup 40 years ago to a stun gun that never got to be used. Check out the lovely adjacent store – the \'bad memories eraser\' is a bestseller – and the cosy cafe with sidewalk tables. There are jazz nights on Thursdays during summer and fall.</string>
+
+    <!-- Titles and details for Parks section -->
+    <string name="parks_maksimir">Maksimir Park</string>
+    <string name="parks_maksimir_details">The park, a peaceful wooded enclave covering 18 hectares, is easily accessible by trams 11 and 12 from Jelačić square. Opened to the public in 1794, it was the first public promenade in southeastern Europe. It\'s landscaped like an English garden, with alleys, lawns and artificial lakes.</string>
+
+    <string name="parks_botanic">Botanical Garden</string>
+    <string name="parks_botanic_details">The Zagreb Botanical Garden is located in downtown Zagreb. Founded in 1889 by Antun Heinz, Professor of the University of Zagreb, and opened to public in 1891, it is part of the Faculty of Science. Covering an area of 5 hectares, it is home to over 10,000 plant species from around the world, including 1,800 exotic ones. It has large ponds for aquatic plants.</string>
+
+    <string name="parks_bundek">Bundek Park</string>
+    <string name="parks_bundek_details">The park extends from the Liberty Bridge to the Youth Bridge. In Bundek Park citizens can enjoy nature, numerous outdoor activities, barbecuing, sunbathing, and fishing. The park extends to 545,000 m², of which 470,000 m² are green areas, 50,000 m² are water areas (lakes), and 10,000 m² are walking paths. The Bundek Lake consists of the Big Lake and the Small Lake. The Big Lake has a 10,000 m² bank which, during the summer, has life guards and doctors on site.\nIn the eastern part of the park, there are two volleyball and handball sand courts. On the western part of the lake, there is a water stage which can hold around 2500 spectators for numerous cultural events. During the summer, there are numerous cultural, entertainment, sports, and recreational events.</string>
+
+    <!-- Titles and details for Nightlife section -->
+    <string name="nightlife_attack">Club Attack</string>
+    <string name="nightlife_attack_details">AKC Medika - Attack, Pierottijeva 11\n<a href="http://www.attack.hr/">www.attack.hr</a></string>
+
+    <string name="nightlife_aquaius">Aquarius</string>
+    <string name="nightlife_aquarius_details">Matije Ljubeka bb, Jarun\n<a href="http://www.aquarius.hr/">www.aquarius.hr</a></string>
+
+    <string name="nightlife_gjuro">Gjuro II</string>
+    <string name="nightlife_gjuro_details">Medveščak 2\n<a href="https://www.facebook.com/G2undergroundmusicevents/">www.facebook.com/G2undergroundmusicevents</a></string>
+</resources>
